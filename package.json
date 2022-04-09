@@ -1,0 +1,36 @@
+{
+  "name": "nextauthjs-server-side-props-wrapper",
+  "version": "0.1.0",
+  "author": {
+    "email": "tim@timfeeley.com",
+    "name": "Tim Feeley"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.1.4",
+    "next-auth": "^4.3.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.23",
+    "@types/react": "18.0.0",
+    "@types/tailwindcss": "3.0.10",
+    "@typescript-eslint/eslint-plugin": "5.18.0",
+    "@typescript-eslint/parser": "5.18.0",
+    "autoprefixer": "10.4.4",
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.4",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "postcss": "8.4.12",
+    "prettier": "2.6.2",
+    "tailwindcss": "3.0.23",
+    "typescript": "4.6.3"
+  }
+}
