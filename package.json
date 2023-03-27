@@ -23,7 +23,7 @@
     "@types/tailwindcss": "3.0.10",
     "@typescript-eslint/eslint-plugin": "5.18.0",
     "@typescript-eslint/parser": "5.18.0",
-    "autoprefixer": "10.4.4",
+    "autoprefixer": "10.4.14",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.4",
     "eslint-config-prettier": "8.5.0",
