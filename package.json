@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "17.0.23",
     "@types/react": "18.0.30",
-    "@types/tailwindcss": "3.0.10",
+    "@types/tailwindcss": "3.0.11",
     "@typescript-eslint/eslint-plugin": "5.57.0",
     "@typescript-eslint/parser": "5.57.0",
     "autoprefixer": "10.4.14",
@@ -30,7 +30,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "postcss": "8.4.21",
     "prettier": "2.8.7",
-    "tailwindcss": "3.0.23",
+    "tailwindcss": "3.3.0",
     "typescript": "5.0.2"
   }
 }
